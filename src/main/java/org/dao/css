@@ -1,0 +1,15 @@
+src/
+        └── org/
+        ├── dao/
+        │   ├── ClienteDao.java
+    │   ├── ClienteDaoMock.java
+    │   ├── ContratoDao.java
+    │   ├── ContratoDaoMock.java
+    │   ├── IClienteDao.java
+    │   └── IContratoDao.java
+    └── service/
+        ├── ClienteService.java
+        ├── ContratoService.java
+        ├── IContratoService.java
+        └── ClienteServiceTest.java
+        └── ContratoServiceTest.java
